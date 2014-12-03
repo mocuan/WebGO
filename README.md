@@ -1,4 +1,4 @@
 WebGO
 =====
 
-HTML5 Implement for OnGo Online Game
+HTML5 Implement for Go Online Game
